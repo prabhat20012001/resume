@@ -390,7 +390,7 @@ section:nth-child(2n) {
   position: sticky;
   top: 5%;
   margin-left: -5px;
-  transform: rotate(90deg);
+  transform: rotate(270deg);
 }
 
 /* Work Experience*/
